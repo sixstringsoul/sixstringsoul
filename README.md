@@ -3,7 +3,7 @@ Data analysis employs the type of problem solving and analytic thinking that I h
 Getting to the root of the problem and enacting improved procedures are passions of mine.
 
 
-🧠 I’m interested in expanding my R coding and SQL skillset.  I have some experience with both tools but would like to master them.
+🧠 I’m interested in expanding my R coding and SQL skillset.  I have some experience with both tools, but would like to master them.
 I have used Excel and Google sheets quite often in my freight career and would consider myself well versed.
 I am also working my way to learning how to code with Python.
 
