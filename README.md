@@ -1,5 +1,4 @@
-👋 Hi, I’m Matthew Sanchez.  An Economics graduate of the class of 2013 from California State University Long Beach.  
-I entered the freight industry shortly after graduating and after my tenure of 8 years I am ready for a career change.
+👋 Hi, I’m Matthew Sanchez.  An Economics graduate of the class of 2013 from California State University Long Beach.  I entered the freight industry shortly after graduating and after my tenure of 8 years I am ready for a career change.
 Data analysis employs the type of problem solving and analytic thinking that I have preferred to perform while at work.
 Getting to the root of the problem and enacting improved procedures are passions of mine.
 
