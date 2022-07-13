@@ -4,7 +4,7 @@ Getting to the root of the problem and enacting improved procedures are passions
 
 
 🧠 I’m interested in expanding my R coding and SQL skillset.  I have some experience with both tools, but would like to master them.
-I have used Excel and Google sheets quite often in my freight career and would consider myself well versed.
+I have used Excel and Google Sheets quite often in my freight career and would consider myself well versed.
 I am also working my way to learning how to code with Python.
 
 👔 I am relatively open about what industry I would like to enter for my first data analyst role.  
